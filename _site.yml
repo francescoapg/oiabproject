@@ -1,0 +1,8 @@
+name: "oiabproject"
+navbar:
+  title: "oiabproject
+  left:
+    - text: "Inicio"
+      href: index.html
+    - text: "Acerca de"
+      href: about.html
