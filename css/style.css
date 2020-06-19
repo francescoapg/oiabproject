@@ -153,6 +153,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #zooslider .block {
   color: #E3E3E4;
+  text-align: center;
 }
 #zooslider .block h1 {
   font-family: 'Roboto', sans-serif;
