@@ -34,6 +34,18 @@ ul {
   margin: 0;
   list-style: none;
 }
+
+
+li { 
+  padding-left: 10px; 
+}
+
+li::before {
+  content: "•";
+  padding-right: 8px;
+  color: #0CB60C;
+}
+
 a,
 a:active,
 a:focus,
