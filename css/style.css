@@ -743,11 +743,13 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 /*--
-	Ion-icon starts
+	Ion stuff 
 --*/
 
+
 ion-icon {
-  color: green;
+  color: blue;
+  font-size: 124px;
 }
 
 
