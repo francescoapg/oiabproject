@@ -506,6 +506,14 @@ font header .navbar-default .navbar-nav li a:hover {
 
 
 /*--
+	Centering Start 
+--*/
+#something-center {
+        text-align: center;
+      }
+
+
+/*--
 	features Start 
 --*/
 #clients-logo-section {
