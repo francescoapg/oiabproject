@@ -508,7 +508,7 @@ font header .navbar-default .navbar-nav li a:hover {
 /*--
 	Centering Start 
 --*/
-#something-center {
+div.something-center {
         text-align: center;
       }
 
