@@ -506,10 +506,11 @@ font header .navbar-default .navbar-nav li a:hover {
 
 
 /*--
-	Centering Start 
+	Image Centering Start 
 --*/
-div.something-center {
+div.img-center {
         text-align: center;
+	width: 80%;
       }
 
 
