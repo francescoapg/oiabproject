@@ -132,6 +132,49 @@ font header .navbar-default .navbar-nav li a:hover {
 /*--
 	Zoologia Slider Start 
 --*/
+#zoolslider {
+  background: url("../img/zoo.jpg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: 10% 0%;
+  padding: 200px 0 280px 0;
+  position: relative;
+}
+#zoolslider:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+#zoolslider .block {
+  color: #E3E3E4;
+  text-align: center;
+}
+#zoolslider .block h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 45px;
+  line-height: 60px;
+  letter-spacing: 10px;
+  padding-bottom: 45px;
+}
+#zoolslider .block p {
+  font-size: 23px;
+  line-height: 40px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  letter-spacing: 3px;
+}
+
+
+
+/*--
+	Zoologia Slider Start 
+--*/
 #zooslider {
   background: url("../img/zoo.jpg") no-repeat;
   background-size: cover;
@@ -171,6 +214,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-weight: 300;
   letter-spacing: 3px;
 }
+
 
 /*--
 	Bryo Slider Start 
