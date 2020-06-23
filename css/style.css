@@ -133,7 +133,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Zoologia Slider Start 
 --*/
 #zoolslider {
-  background: url("../img/zoo.jpg") no-repeat;
+  background: url("../img/zool.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
